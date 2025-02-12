@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 - 🎓 **B.Tech in Computer Science (2021-2025)** at Graphic Era University
-- 💡 Passionate about **AI, Web Development**
+- 💡 Passionate about **AI, Web Development, and Scalable Systems**
 - 🏆 Ranked **Top 10%** on **LeetCode** | **500th globally** on **HackerRank Contest**
 - 📌 **LeetCode:** [v_zagM](https://leetcode.com/v_zagM/) | **GitHub:** [sharmaSagar2](https://github.com/sharmaSagar2)
 
@@ -58,12 +58,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+### 📊 Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaSagar2&layout=compact&theme=radical)
+
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaSagar2&show_icons=true&theme=radical)
 
 ### 🔥 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/v_zagM?theme=dark&font=Abel&ext=heatmap)
+
 
 ---
 
